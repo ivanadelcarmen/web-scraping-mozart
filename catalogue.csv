@@ -1,0 +1,691 @@
+number,title,key,location,year,genre
+001a,Andante for Harpsichord,C Major,Salzburg,1761,Piano Pieces
+001b,Allegro for Harpsichord,C Major,Salzburg,1761,Piano Pieces
+001c,Allegro for Harpsichord,F Major,Salzburg,1761,Piano Pieces
+001d,Minuet for Harpsichord,F Major,Salzburg,1761,Piano Pieces
+001e,Minuet for Harpsichord,G Major,Paris,1763,Piano Pieces
+001f,Minuet for Harpsichord,C Major,Paris,1763,Piano Pieces
+002,Minuet for Harpsichord,F Major,Salzburg,1762,Piano Pieces
+003,Allegro for Harpsichord,B Flat Major,Salzburg,1762,Piano Pieces
+004,Minuet for Harpsichord,F Major,Salzburg,1762,Piano Pieces
+005,Minuet for Harpsichord,F Major,Salzburg,1762,Piano Pieces
+006,Sonata for Harpsichord & Violin,C Major,Paris,1764,Sonatas and Variations for Piano and Violin
+007,Sonata for Harpsichord & Violin,D Major,Paris,1764,Sonatas and Variations for Piano and Violin
+008,Sonata for Harpsichord & Violin,B Flat Major,Paris,1764,Sonatas and Variations for Piano and Violin
+009,Sonata for Harpsichord & Violin,G Major,Paris,1764,Sonatas and Variations for Piano and Violin
+009a,Klavierstück for Harpsichord,C Major,Salzburg,1763,Piano Pieces
+009b,Andante for Harpsichord,B Flat Major,Salzburg,1763,Piano Pieces
+010,"Sonata for Harpsichord, Violin (or Flute) & Cello",B Flat Major,London,1764,Sonatas and Variations for Piano and Violin
+011,"Sonata for Harpsichord, Violin (or Flute) & Cello",G Major,London,1764,Sonatas and Variations for Piano and Violin
+012,"Sonata for Harpsichord, Violin (or Flute) & Cello",A Major,London,1764,Sonatas and Variations for Piano and Violin
+013,"Sonata for Harpsichord, Violin (or Flute) & Cello",F Major,London,1764,Sonatas and Variations for Piano and Violin
+014,"Sonata for Harpsichord, Violin (or Flute) & Cello",C Major,London,1764,Sonatas and Variations for Piano and Violin
+015,"Sonata for Harpsichord, Violin (or Flute) & Cello",B Flat Major,London,1764,Sonatas and Variations for Piano and Violin
+015aa-ss,London Sketchbook: 43 Pieces for Harpsichord,N/A,London,1764,Piano Pieces
+016,Symphony #1,E Flat Major,London,1764,Symphonies
+019,Symphony #4,D Major,London,1765,Symphonies
+019a,Symphony K. A223,F Major,London,1765,Symphonies
+019d,Sonata for Piano Duet,C Major,London,1765,Works for two pianos and for piano four hands
+020,"Motet ""God is our Refuge""",G Major,London,1765,Notturni & Polyphonic singing
+021,"Aria for Tenor ""Va, dal furor portata""",N/A,London,1765,"Arias, scenes, ensembles and choirs with orchestra"
+022,Symphony #5,B Flat Major,The Hague,1765,Symphonies
+023,"Aria for Soprano ""Conservati fedele""",N/A,The Hague,1766,"Arias, scenes, ensembles and choirs with orchestra"
+024,"8 Variations for Piano on the Dutch song ""Laat ons juichen"" by Graaf",G Major,The Hague,1766,Variations for Piano
+025,"7 Variations for Piano on ""Willem van Nassau""",D Major,Amsterdam,1766,Variations for Piano
+026,Sonata for Harpsichord & Violin,E Flat Major,The Hague,1766,Sonatas and Variations for Piano and Violin
+027,Sonata for Harpsichord & Violin,G Major,The Hague,1766,Sonatas and Variations for Piano and Violin
+028,Sonata for Harpsichord & Violin,C Major,The Hague,1766,Sonatas and Variations for Piano and Violin
+029,Sonata for Harpsichord & Violin,D Major,The Hague,1766,Sonatas and Variations for Piano and Violin
+030,Sonata for Harpsichord & Violin,F Major,The Hague,1766,Sonatas and Variations for Piano and Violin
+031,Sonata for Harpsichord & Violin,B Flat Major,The Hague,1766,Sonatas and Variations for Piano and Violin
+032,Quodlibet Galimathias Musicum,N/A,The Hague,1766,"Cassations, Serenades and Divertimenti for orchestra"
+033,Kyrie,F Major,Paris,1766,Masses and Requiem
+033b,Movement for Harpsichord,F Major,Zurich,1766,Piano Pieces
+034,"Offertory ""Scande coeli limina""",C Major,Seeon,1766,Smaller Church Works
+035,Die Schuldigkeit des ersten Gebots,N/A,Salzburg,1767,"Oratorios, Sacred Singspiels and Cantatas"
+036,"Recitative & Aria (licenza) for Tenor ""Or che il dover… Tali e contanti sono""",N/A,Salzburg,1766,"Arias, scenes, ensembles and choirs with orchestra"
+037,Concerto for Piano #1 (Arrangement from Keyboard Sonatas by Raupach? & Honauer),F Major,Salzburg,1767,Concertos for piano
+038,Apollo et Hyacinthus,N/A,Salzburg,1767,Operas and Singspiels
+039,"Concerto for Piano #2 (Arrangement from Keyboard Sonatas by Raupach [i, iii] & Schobert [ii])",B Flat Major,Salzburg,1767,Concertos for piano
+040,"Concerto for Piano #3 (Arrangement from Keyboard Sonatas by Honauer, Eckard & C.P.E. Bach",D Major,Salzburg,1767,Concertos for piano
+041,"Concerto for Piano #4 (Arrangement from Keyboard Sonatas by Honauer [i, iii] & Raupach [ii])",G Major,Salzburg,1767,Concertos for piano
+042,"Cantata ""Grabmusik""",N/A,Salzburg,1767,"Oratorios, Sacred Singspiels and Cantatas"
+043,Symphony #6,F Major,Salzburg,1767,Symphonies
+045,"Symphony #7 reworked as Overture to ""La finta semplice""",D Major,Vienna,1768,Symphonies
+045a,"Symphony #7a ""Alte Lambacher""",G Major,Vienna,1768,Symphonies
+045b,Symphony #55,B Flat Major,Vienna,1768,Symphonies
+046d,Sonata for Violin & Bass,C Major,Vienna,1768,Duos and Trios for Strings and Winds
+046e,Sonata for Violin & Bass,F Major,Vienna,1768,Duos and Trios for Strings and Winds
+047,"Offertory ""Veni, Sancte Spiritus""",C Major,Vienna,1768,Smaller Church Works
+048,Symphony #8,D Major,Vienna,1768,Symphonies
+049,Missa brevis,G Major,Vienna,1768,Masses and Requiem
+050,Bastien und Bastienne,N/A,Vienna,1768,Operas and Singspiels
+051,La finta semplice,N/A,Vienna,1768,Operas and Singspiels
+053,"Song for Soprano & Piano ""An die Freude""",N/A,Vienna,1768,Lieder
+054,5 Variations for Piano,F Major,Vienna,1768,Variations for Piano
+061gl,Minuet for Keyboard,A Major,Salzburg,1770,Supplement
+061gll,Minuet for Keyboard,C Major,Salzburg,1771,Piano Pieces
+061h,6 Minuets for Orchestra,N/A,Salzburg,1769,Dances and Marches
+062,"March used for ""Mitridate""",D Major,Salzburg,1769,Dances and Marches
+063,Cassation,G Major,Salzburg,1769,"Cassations, Serenades and Divertimenti for orchestra"
+065,Missa brevis,D minor,Salzburg,1769,Masses and Requiem
+065a,7 Minuets for Strings,N/A,Salzburg,1769,Dances and Marches
+066,"Mass ""Dominicus""",C Major,Salzburg,1769,Masses and Requiem
+067,Church Sonata #1,E Flat Major,Salzburg,1771,Church Sonatas
+068,Church Sonata #2,B Flat Major,Salzburg,1771,Church Sonatas
+069,Church Sonata #3,D Major,Salzburg,1771,Church Sonatas
+070,"Recitative & Aria (licenza) for Soprano ""A Berenice… Sol nascente""",N/A,Salzburg,1769,"Arias, scenes, ensembles and choirs with orchestra"
+071,"Aria for Tenor ""Ah, piu tremar non voglio""",N/A,Salzburg,1770,"Arias, scenes, ensembles and choirs with orchestra"
+072,"Offertory ""Inter natos mulierum""",G Major,Salzburg,1770,Smaller Church Works
+072a,Klavierstück for Harpsichord,G Major,Verona,1770,Piano Pieces
+073,Symphony #9,C Major,Salzburg,1769,Symphonies
+073w,Thema for Harpsichord,G Major,Verona,1770,Piano Pieces
+074,Symphony #10,G Major,Milan,1770,Symphonies
+074b,"Aria for ""Non curo l'affetto""",N/A,Anfang,1771,"Arias, scenes, ensembles and choirs with orchestra"
+075,Symphony #42,F Major,Salzburg,1771,Symphonies
+076,Symphony #43,F Major,Vienna,1767,Symphonies
+077,"Recitative & Aria for Soprano ""Misero me… Misero pargoletto""",N/A,Milan,1770,"Arias, scenes, ensembles and choirs with orchestra"
+078,"Scena for Soprano ""Per pieta, bell'idol mio""",N/A,Milan,1770,"Arias, scenes, ensembles and choirs with orchestra"
+079,"Recitative & Aria for Soprano ""O temerario Arbace… Per quel paterno amplesso""",N/A,Milan,1770,"Arias, scenes, ensembles and choirs with orchestra"
+080,Quartet for Strings #1,G Major,Salzburg,1770,String Quartets and Quartets with a Wind Instrument
+081,Symphony #44,D Major,Rome,1770,Symphonies
+082,"Aria for Soprano ""Se ardire""",N/A,Rome,1770,"Arias, scenes, ensembles and choirs with orchestra"
+083,"Aria for Soprano ""Se tutti i mali miei""",N/A,Rome,1770,"Arias, scenes, ensembles and choirs with orchestra"
+084,Symphony #11,D Major,Milan,1770,Symphonies
+085,Miserere,A minor,Bologna,1770,Smaller Church Works
+086,"Antiphon ""Quaerite primum regnum Dei""",N/A,Bologna,1770,Smaller Church Works
+087,"Mitridate, re di Ponto",N/A,Milan,1770,Operas and Singspiels
+088,"Aria for Soprano ""Fra cento affani""",N/A,Milan,1770,"Arias, scenes, ensembles and choirs with orchestra"
+089,"Canon for 5 Sopranos ""Kyrie""",G Major,Salzburg,1772,Canons
+089aI,Canon for 4 Winds,A Major,Salzburg,1772,Canons
+089aII,"4 Canons ""Puzzle""",N/A,Salzburg,1772,Canons
+090,Kyrie for SATB & Organ,D minor,Salzburg,1771,Masses and Requiem
+094,Minuet for Harpsichord,D Major,Salzburg,1769,Piano Pieces
+095,Symphony #45,D Major,Rome,1770,Symphonies
+096,Symphony #46,C Major,Milan,1771,Symphonies
+097,Symphony #47,D Major,Rome,1770,Symphonies
+099,Cassation,B Flat Major,Salzburg,1769,"Cassations, Serenades and Divertimenti for orchestra"
+100,Cassation-Finalmusik,D Major,Salzburg,1769,"Cassations, Serenades and Divertimenti for orchestra"
+101,4 Contradanses,F Major,Salzburg,1776,Dances and Marches
+102,Finale of a Symphony,C Major,Salzburg,1775,Symphonies
+103,19 Minuets for Orchestra,N/A,Salzburg,1772,Dances and Marches
+104,6 Minuets for Orchestra,N/A,Salzburg,1771,Dances and Marches
+105,6 Minuets for Orchestra,N/A,Salzburg,1771,Dances and Marches
+106,Overture & 3 Contradanses,N/A,Vienna,1790,Supplement
+107,3 concertos after J.C. Bach,N/A,Salzburg,1772,Concertos for piano
+108,Regina Coeli,C Major,Salzburg,1771,Smaller Church Works
+109,Litaniae de Beata Maria Virgine,B Flat Major,Salzburg,1771,Litanies and Vespers
+110,Symphony #12,G Major,Salzburg,1771,Symphonies
+111,Ascanio in Alba (Serenata teatrale),N/A,Milan,1771,Operas and Singspiels
+112,Symphony #13,F Major,Milan,1771,Symphonies
+113,Divertimento #1,E Flat Major,Milan,1771,"Cassations, Serenades and Divertimenti for orchestra"
+114,Symphony #14,A Major,Salzburg,1771,Symphonies
+117,"Offertory ""Benedisctus sit Deus""",C Major,Salzburg,1769,Smaller Church Works
+118,La Betulia liberata,N/A,Salzburg,1771,"Oratorios, Sacred Singspiels and Cantatas"
+119,"Aria for Soprano ""Der Liebe himmlisches Gefuehl""",N/A,Vienna,1782,"Arias, scenes, ensembles and choirs with orchestra"
+120,Finale of a Symphony (Ascanio in Alba),D Major,Milan,1771,Symphonies
+121,Finale of a Symphony (La Finta Giardiniera),D Major,Salzburg,1775,Symphonies
+122,Minuet for Orchestra,E Flat Major,Rome,1770,Dances and Marches
+123,Contredanse for Orchestra,B Flat Major,Rome,1770,Dances and Marches
+124,Symphony #15,G Major,Salzburg,1772,Symphonies
+125,Litaniae de venerabili altaris sacramento,N/A,Salzburg,1772,Litanies and Vespers
+126,Il sogno di Scipione,N/A,Salzburg,1771,Operas and Singspiels
+127,Regina Coeli,B Flat Major,Salzburg,1772,Smaller Church Works
+128,Symphony #16,C Major,Salzburg,1772,Symphonies
+129,Symphony #17,G Major,Salzburg,1772,Symphonies
+130,Symphony #18,F Major,Salzburg,1772,Symphonies
+131,Divertimento #2,D Major,Salzburg,1772,"Cassations, Serenades and Divertimenti for orchestra"
+132,Symphony #19,E Flat Major,Salzburg,1772,Symphonies
+133,Symphony #20,D Major,Salzburg,1772,Symphonies
+134,Symphony #21,A Major,Salzburg,1772,Symphonies
+135,Lucio Silla,N/A,Milan,1772,Operas and Singspiels
+136,Divertimento,D Major,Salzburg,1772,"Cassations, Serenades and Divertimenti for orchestra"
+137,Divertimento,B Flat Major,Salzburg,1772,"Cassations, Serenades and Divertimenti for orchestra"
+138,Divertimento,F Major,Salzburg,1772,"Cassations, Serenades and Divertimenti for orchestra"
+139,"Missa ""Waisenhaus-Messe""",C minor,Salzburg,1768,Masses and Requiem
+141,Te Deum,C Major,Salzburg,1769,Smaller Church Works
+143,"Aria for Soprano ""Ergo interest""",N/A,Milan,1770,Smaller Church Works
+144,Church Sonata #4,D Major,Salzburg,1774,Church Sonatas
+145,Church Sonata #5,F Major,Salzburg,1774,Church Sonatas
+146,"Aria for Soprano ""Kommet her, ihr frechen Suender""",N/A,Salzburg,1779,"Oratorios, Sacred Singspiels and Cantatas"
+147,"Lied ""Wie ungluecklich bin ich nit""",N/A,Salzburg,1772,Lieder
+148,"Lied ""O heiliges band""",N/A,Salzburg,1772,Lieder
+152,"Canzonetta ""Ridente la calma""",N/A,Salzburg,1775,Lieder
+153,Fugue for Piano (Fragment),E Flat Major,Vienna,1782,Piano Pieces
+154,Fugue for Piano (Fragment),G minor,Vienna,1782,Piano Pieces
+154a,2 little Fugues for Organ,N/A,Salzburg,1772,Piano Pieces
+155,Quartet for Strings #2,D Major,Bozen,1772,String Quartets and Quartets with a Wind Instrument
+156,Quartet for Strings #3,G Major,Milan,1772,String Quartets and Quartets with a Wind Instrument
+157,Quartet for Strings #4,C Major,Milan,1772,String Quartets and Quartets with a Wind Instrument
+158,Quartet for Strings #5,F Major,Milan,1773,String Quartets and Quartets with a Wind Instrument
+159,Quartet for Strings #6,B Flat Major,Milan,1773,String Quartets and Quartets with a Wind Instrument
+160,Quartet for Strings #7,E Flat Major,Milan,1773,String Quartets and Quartets with a Wind Instrument
+161,Symphony (Overture to K. 126),D Major,Salzburg,1772,Symphonies
+162,Symphony #22,C Major,Salzburg,1773,Symphonies
+163,Finale of the Symphony K. 161,D Major,Salzburg,1773,Symphonies
+164,6 Minuets for Orchestra,N/A,Salzburg,1772,Dances and Marches
+165,"Motet for Soprano ""Exsultate, jubilate""",N/A,Milan,1773,Smaller Church Works
+166,Divertimento #3,E Flat Major,Salzburg,1773,Divertimenti and serenades for wind instruments
+166f,Kyrie,C Major,Salzburg,1772,Masses and Requiem
+166g,Kyrie,D Major,Salzburg,1773,Masses and Requiem
+167,"Missa ""Trinitatis-Messe""",C Major,Salzburg,1773,Masses and Requiem
+168,Quartet for Strings #8,F Major,Vienna,1773,String Quartets and Quartets with a Wind Instrument
+169,Quartet for Strings #9,A Major,Vienna,1773,String Quartets and Quartets with a Wind Instrument
+170,Quartet for Strings #10,C Major,Vienna,1773,String Quartets and Quartets with a Wind Instrument
+171,Quartet for Strings #11,E Flat Major,Vienna,1773,String Quartets and Quartets with a Wind Instrument
+172,Quartet for Strings #12,B Flat Major,Vienna,1773,String Quartets and Quartets with a Wind Instrument
+173,Quartet for Strings #13,D minor,Vienna,1773,String Quartets and Quartets with a Wind Instrument
+174,Quintet for Strings,B Flat Major,Salzburg,1773,String quintets and quintets with winds
+175,Concerto for Piano #5,D Major,Salzburg,1773,Concertos for piano
+176,16 Minuets for Orchestra,N/A,Salzburg,1773,Dances and Marches
+178,"Aria for Soprano ""Ah, spiegarti, oh Dio""",N/A,Vienna,1783,Lieder
+179,12 variations for Piano on a Minuet by Fischer,C Major,Salzburg,1774,Variations for Piano
+180,"6 variations for Piano on ""Moi caro Adone"" by Salieri",G Major,Vienna,1773,Variations for Piano
+181,Symphony #23,D Major,Salzburg,1773,Symphonies
+182,Symphony #24,B Flat Major,Salzburg,1773,Symphonies
+183,Symphony #25,G minor,Salzburg,1773,Symphonies
+184,Symphony #26 (Overture),E Flat Major,Salzburg,1773,Symphonies
+185,"Serenade #3 ""Antretter""",D Major,Vienna,1773,"Cassations, Serenades and Divertimenti for orchestra"
+186,Divertimento #4,B Flat Major,Milan,1773,Divertimenti and serenades for wind instruments
+188,Divertimento #6,C Major,Salzburg,1773,Divertimenti and serenades for wind instruments
+189,March for Orchestra,D Major,Vienna,1773,"Cassations, Serenades and Divertimenti for orchestra"
+190,Concertone for 2 Violins & Orchestra,C Major,Salzburg,1774,"Concertos for one or more string, wind"
+191,Concerto for Bassoon,B Flat Major,Salzburg,1774,"Concertos for one or more string, wind"
+192,"Missa brevis ""Kleine Credo-Messe""",F Major,Salzburg,1774,Masses and Requiem
+193,Dixit & Magnificat,C Major,Salzburg,1774,Litanies and Vespers
+194,Missa brevis,D Major,Salzburg,1774,Masses and Requiem
+195,Litaniae Lauretanae,D Major,Salzburg,1774,Litanies and Vespers
+196,La finta giardiniera,N/A,Salzburg,1775,Operas and Singspiels
+196a,Kyrie,G Major,Vienna,1787,Masses and Requiem
+196g,Allegro,B Flat Major,Vienna,1782,Divertimenti and serenades for wind instruments
+197,Tantum ergo,G Major,Salzburg,1772,Smaller Church Works
+198,"Offertorium ""Sub tuum praesidium""",F Major,Milan,1773,Smaller Church Works
+199,Symphony #27,G Major,Salzburg,1773,Symphonies
+200,Symphony #28,C Major,Salzburg,1773,Symphonies
+201,Symphony #29,A Major,Salzburg,1774,Symphonies
+202,Symphony #30,D Major,Salzburg,1774,Symphonies
+203,Serenade #4,D Major,Salzburg,1774,"Cassations, Serenades and Divertimenti for orchestra"
+204,Serenade #5,D Major,Salzburg,1775,"Cassations, Serenades and Divertimenti for orchestra"
+205,Divertimento #7,D Major,Vienna,1773,Divertimenti for string and wind instruments
+206,March for Idomeneo,D Major,Salzburg,1775,Dances and Marches
+207,Concerto for Violin #1,B Flat Major,Salzburg,1773,"Concertos for one or more string, wind"
+208,Il re pastore,N/A,Salzburg,1775,Operas and Singspiels
+209,"Aria for tenor ""Si mostra la Sorte""",N/A,Salzburg,1775,"Arias, scenes, ensembles and choirs with orchestra"
+209a,"Aria for bass ""Un dente guasto e gelato""",N/A,Salzburg,1775,"Arias, scenes, ensembles and choirs with orchestra"
+210,"Aria for tenor ""Con ossequio, con rispetto""",N/A,Salzburg,1775,"Arias, scenes, ensembles and choirs with orchestra"
+211,Concerto for Violin #2,D Major,Salzburg,1775,"Concertos for one or more string, wind"
+212,Church Sonata #6,B Flat Major,Salzburg,1775,Church Sonatas
+213,Divertimento #8,F Major,Salzburg,1775,Divertimenti and serenades for wind instruments
+214,March for Orchestra,C Major,Salzburg,1775,Dances and Marches
+215,March for Orchestra,D Major,Salzburg,1775,"Cassations, Serenades and Divertimenti for orchestra"
+216,Concerto for Violin #3,G Major,Salzburg,1775,"Concertos for one or more string, wind"
+217,"Aria for Soprano ""Voi avete un cor fedele""",N/A,Salzburg,1775,"Arias, scenes, ensembles and choirs with orchestra"
+218,Concerto for Violin #4,D Major,Salzburg,1775,"Concertos for one or more string, wind"
+219,Concerto for Violin #5,A Major,Salzburg,1775,"Concertos for one or more string, wind"
+220,"Missa brevis ""Spatzen-Messe""",C Major,Munich,1775,Masses and Requiem
+222,"Offertorium de tempore ""Misericordias Domini""",D minor,Munich,1775,Smaller Church Works
+223,Ossana,G Major,Salzburg,1772,Masses and Requiem
+224,Church Sonata #7,F Major,Salzburg,1779,Church Sonatas
+225,Church Sonata #8,A Major,Salzburg,1779,Church Sonatas
+228,"Double Canon ""Ach, zu kurz""",N/A,Vienna,1787,Canons
+229,"Canon ""Sie ist dahin""",N/A,Vienna,1782,Canons
+230,"Canon ""Selig, selig alle""",N/A,Vienna,1782,Canons
+231,"Canon ""Leck mich im Arsch""",N/A,Vienna,1782,Canons
+232,"Canon ""Lieber Freisdtädtler, lieber Gaulimauli""",N/A,Vienna,1787,Canons
+236,"Andantino for Piano on ""Non vi turbare, no"" by Gluck",E Flat Major,Vienna,1781,Supplement
+237,March for Orchestra,D Major,Salzburg,1774,"Cassations, Serenades and Divertimenti for orchestra"
+238,Concerto for Piano #6,B Flat Major,Salzburg,1776,Concertos for piano
+239,"Serenade #6 for 2 Orchestras ""Serenata notturna""",D Major,Salzburg,1776,"Cassations, Serenades and Divertimenti for orchestra"
+240,Divertimento #9,B Flat Major,Salzburg,1776,Divertimenti and serenades for wind instruments
+241,Church Sonata #7-8,G Major,Salzburg,1776,Church Sonatas
+242,Concerto for 3 Pianos #7,F Major,Salzburg,1776,Concertos for piano
+243,Litaniae de venerabili altaris sacramento,N/A,Salzburg,1776,Litanies and Vespers
+244,Church Sonata #9,F Major,Salzburg,1776,Church Sonatas
+245,Church Sonata #10,D Major,Salzburg,1776,Church Sonatas
+246,"Concerto for Piano #8 ""Lützow""",C Major,Salzburg,1776,Concertos for piano
+246b,Divertimento,D Major,Salzburg,1776,Divertimenti for string and wind instruments
+247,"Divertimento #10 ""Lodronische Nachtmusik 1""",F Major,Salzburg,1776,Divertimenti for string and wind instruments
+248,March for Orchestra,F Major,Salzburg,1776,Divertimenti for string and wind instruments
+249,"March (for ""Haffner"" Serenade)",D Major,Salzburg,1776,"Cassations, Serenades and Divertimenti for orchestra"
+250,"Serenade #7 ""Haffner""",D Major,Salzburg,1776,"Cassations, Serenades and Divertimenti for orchestra"
+251,Divertimento #11,D Major,Salzburg,1776,Divertimenti for string and wind instruments
+252,Divertimento #12,E Flat Major,Salzburg,1776,Divertimenti and serenades for wind instruments
+253,Divertimento #13,F Major,Salzburg,1776,Divertimenti and serenades for wind instruments
+254,"Divertimento (Trio for Piano, Violin, Cello)",B Flat Major,Salzburg,1776,"Quintets, quartets and trios with piano"
+255,"Recitative & Aria for Alto ""Ombra felice""",N/A,Salzburg,1776,"Arias, scenes, ensembles and choirs with orchestra"
+256,"Aria for Tenor ""Clarice cara mia sposa""",N/A,Salzburg,1776,"Arias, scenes, ensembles and choirs with orchestra"
+257,"Mass ""Credo""",C Major,Salzburg,1776,Masses and Requiem
+258,"Missa brevis ""Spaur""",C Major,Salzburg,1775,Masses and Requiem
+258a,Kyrie,C Major,Salzburg,1772,Masses and Requiem
+259,"Missa brevis ""Organ Solo""",C Major,Vienna,1787,Masses and Requiem
+260,"Offertorium ""Venite, Populi""",N/A,Salzburg,1776,Smaller Church Works
+261,"Adagio for the Violin Concerto, K. 219",E Major,Salzburg,1776,"Concertos for one or more string, wind"
+262,"Mass ""Missa Longa""",C Major,Salzburg,1775,Masses and Requiem
+263,Church Sonata #3,C Major,Salzburg,1776,Church Sonatas
+264,"9 Variations for Piano ""Lison Dormait""",N/A,Vienna,1781,Variations for Piano
+265,"12 Variations for Piano ""Ah, vous dirai-je, maman""",N/A,Vienna,1781,Variations for Piano
+266,Trio (Nachtmusik) for 2 Violins & Bass,B Flat Major,Salzburg,1777,Duos and Trios for Strings and Winds
+267,4 Contredanses,N/A,Salzburg,1777,Dances and Marches
+269,Rondo concertante for Violin & Orchestra,B Flat Major,Salzburg,1776,"Concertos for one or more string, wind"
+269b,4 Contredanse for Czernin,N/A,Salzburg,1777,Piano Pieces
+270,Divertimento #14,B Flat Major,Salzburg,1777,Divertimenti and serenades for wind instruments
+271,"Concerto for Piano #9 ""Jeunehomme""",E Flat Major,Salzburg,1777,Concertos for piano
+272,"Recitative & Aria for Soprano ""Ah, lo previdi""",N/A,Salzburg,1777,"Arias, scenes, ensembles and choirs with orchestra"
+273,"Gradual ""Sancta Maria""",N/A,Salzburg,1777,Smaller Church Works
+274,Church Sonata #11,G Major,Salzburg,1777,Church Sonatas
+275,"Missa brevis ""Harmonie-Messe""",B Flat Major,Salzburg,1777,Masses and Requiem
+276,"""Regina Coeli""",C Major,Salzburg,1779,Smaller Church Works
+277,"Offertory ""Alma Dei creatoris""",N/A,Salzburg,1777,Smaller Church Works
+278,Church Sonata #12,C Major,Salzburg,1777,Church Sonatas
+279,Sonata for Piano #1,C Major,Munich,1775,Piano sonatas
+280,Sonata for Piano #2,F Major,Munich,1775,Piano sonatas
+281,Sonata for Piano #3,B Flat Major,Munich,1775,Piano sonatas
+282,Sonata for Piano #4,E Flat Major,Munich,1775,Piano sonatas
+283,Sonata for Piano #5,G Major,Munich,1775,Piano sonatas
+284,Sonata for Piano #6,D Major,Munich,1775,Piano sonatas
+284a,Prelude & Capriccio for Piano,C Major,Munich,1777,Piano Pieces
+285,Quartet for Flute & Strings,D Major,Mannheim,1777,String Quartets and Quartets with a Wind Instrument
+285a,Quartet for Flute & Strings,G Major,Mannheim,1778,String Quartets and Quartets with a Wind Instrument
+285b,Quartet for Flute & Strings,C Major,Mannheim,1778,String Quartets and Quartets with a Wind Instrument
+286,Notturno (Serenade #8) for 4 Orchestras,D Major,Salzburg,1776,"Cassations, Serenades and Divertimenti for orchestra"
+287,"Divertimento #15 ""Lodronische Nachtmusik 2""",B Flat Major,Salzburg,1777,Divertimenti for string and wind instruments
+288,Divertimento,F Major,Salzburg,1776,Divertimenti for string and wind instruments
+290,March for 2 Horns & Strings,D Major,Salzburg,1772,Divertimenti for string and wind instruments
+292,Sonata for Bassoon & Cello,B Flat Major,Munich,1775,Duos and Trios for Strings and Winds
+293,Concerto for Oboe (Fragment),F Major,Mannheim,1778,"Concertos for one or more string, wind"
+293e,"Aria for Soprano ""Cara, la dolce fiamma"" after JC Bach",N/A,Mannheim,1778,Supplement
+294,"Recitative & Aria for Soprano ""Alcandro, lo confesso""",N/A,Mannheim,1778,"Arias, scenes, ensembles and choirs with orchestra"
+295,"Aria for Tenor ""Se al labbro mio non credi""",N/A,Mannheim,1778,"Arias, scenes, ensembles and choirs with orchestra"
+296,Sonata for Piano & Violin #17,C Major,Mannheim,1778,Sonatas and Variations for Piano and Violin
+297,"Symphony #31 ""Paris""",D Major,Paris,1778,Symphonies
+297b,Symphonie Concertante for Winds,E Flat Major,Paris,1778,"Concertos for one or more string, wind"
+298,Quartet for Flute & Strings,A Major,Vienna,1786,String Quartets and Quartets with a Wind Instrument
+299,Concerto for Flute & Harp,C Major,Paris,1778,"Concertos for one or more string, wind"
+299b,"Ballet Music ""Les petits riens""",N/A,Paris,1778,"Music for Plays, Pantomimes and Ballets"
+299c,Ballet-Intermezzo,N/A,Paris,1778,"Music for Plays, Pantomimes and Ballets"
+300,Gavotte for Orchestra,B Flat Major,Paris,1778,"Music for Plays, Pantomimes and Ballets"
+301,Sonata for Piano & Violin #18,G Major,Mannheim,1778,Sonatas and Variations for Piano and Violin
+302,Sonata for Piano & Violin #19,E Flat Major,Mannheim,1778,Sonatas and Variations for Piano and Violin
+303,Sonata for Piano & Violin #20,C Major,Mannheim,1778,Sonatas and Variations for Piano and Violin
+304,Sonata for Piano & Violin #21,E minor,Paris,1778,Sonatas and Variations for Piano and Violin
+305,Sonata for Piano & Violin #22,A Major,Mannheim,1778,Sonatas and Variations for Piano and Violin
+306,Sonata for Piano & Violin #23,D Major,Paris,1778,Sonatas and Variations for Piano and Violin
+307,"Arietta ""Oiseaux, si tous les ans""",N/A,Mannheim,1777,Lieder
+308,"Arietta ""Dans un bois solitaire""",N/A,Mannheim,1778,Lieder
+309,Sonata for Piano #7,C Major,Mannheim,1777,Piano sonatas
+310,Sonata for Piano #8,A minor,Paris,1778,Piano sonatas
+311,Sonata for Piano #9,D Major,Mannheim,1777,Piano sonatas
+312,Allegro of a Piano Sonata,G minor,Vienna,1790,Piano sonatas
+313,Concerto for Flute,G Major,Mannheim,1778,"Concertos for one or more string, wind"
+314,Concerto for Oboe,D Major,Mannheim,1778,"Concertos for one or more string, wind"
+315,Andante for Flute & Orchestra,C Major,Mannheim,1780,"Concertos for one or more string, wind"
+315a,8 Minuets,N/A,Salzburg,1773,Piano Pieces
+315f,Concerto for Violin & Piano,D Major,Mannheim,1777,"Concertos for one or more string, wind"
+316,"Recitative & Aria for Soprano ""Popoli di Tessaglia""",N/A,Munich,1779,"Arias, scenes, ensembles and choirs with orchestra"
+317,"Mass ""Coronation""",C Major,Salzburg,1779,Masses and Requiem
+318,Symphony #32 (Overture),G Major,Salzburg,1779,Symphonies
+319,Symphony #33,B Flat Major,Salzburg,1779,Symphonies
+320,"Serenade #9 ""Post Horn""",D Major,Salzburg,1779,"Cassations, Serenades and Divertimenti for orchestra"
+320e,"Sinfonia Concertante for Violin, Viola, Cello & Orchestra",A Major,Salzburg,1779,"Concertos for one or more string, wind"
+320f,"""La Chasse""",A Major,Herbst,1778,"Music for Plays, Pantomimes and Ballets"
+321,"""Vesperae de Dominica""",C Major,Salzburg,1779,Litanies and Vespers
+321a,Magnificat (fragment),C Major,Salzburg,1779,Litanies and Vespers
+322,Kyrie (Fragment),E Flat Major,Mannheim,1778,Masses and Requiem
+323,Kyrie (Fragment),C Major,Vienna,1790,Masses and Requiem
+323a,Gloria,C Major,Vienna,1790,Masses and Requiem
+328,Church Sonata #13,C Major,Salzburg,1779,Church Sonatas
+329,Church Sonata #14,C Major,Salzburg,1779,Church Sonatas
+330,Sonata for Piano #10,C Major,Vienna,1783,Piano sonatas
+331,"Sonata for Piano #11 ""Alla Turca""",A Major,Vienna,1783,Piano sonatas
+332,Sonata for Piano #12,F Major,Vienna,1783,Piano sonatas
+333,"Sonata for Piano #13 ""Linz""",B Flat Major,Vienna,1783,Piano sonatas
+334,Divertimento #17,D Major,Salzburg,1779,Divertimenti for string and wind instruments
+335,2 Marches for Orchestra,D Major,Salzburg,1779,"Cassations, Serenades and Divertimenti for orchestra"
+336,Church Sonata #15,C Major,Salzburg,1780,Church Sonatas
+337,Missa solemnis,C Major,Salzburg,1780,Masses and Requiem
+338,Symphony #34,C Major,Salzburg,1780,Symphonies
+339,Vesperae solemnes de confessore,C Major,Salzburg,1780,Litanies and Vespers
+341,Kyrie,D minor,Vienna,1787,Masses and Requiem
+343,2 German Church songs,N/A,Vienna,1787,Lieder
+344,Zaïde,N/A,Salzburg,1779,Operas and Singspiels
+345,"Thamos, King of Egypt",N/A,Salzburg,1773,Operas and Singspiels
+346,"Notturno ""Luci care, luci belle""",N/A,Vienna,1787,Notturni & Polyphonic singing
+347,"Canon ""Lasst uns ziehn""",N/A,Vienna,1785,Canons
+348,"Canon ""V'amo di core teneramente""",N/A,Vienna,1782,Canons
+349,"Lied ""Die Zufriedenheit""",N/A,Munich,1780,Lieder
+351,"Lied ""Komm, liebe Zither""",N/A,Munich,1780,Lieder
+352,"8 Variations for Piano ""Les Mariages samnites""",N/A,Vienna,1781,Variations for Piano
+353,"12 Variations for Piano ""La belle Françoise""",N/A,Paris,1778,Variations for Piano
+354,"12 Variations for Piano ""Je suis Lindor""",N/A,Paris,1778,Variations for Piano
+355,Minuet for Piano,D Major,Vienna,1780,Piano Pieces
+356,Adagio for Glass harmonica,C Major,Vienna,1791,Piano Pieces
+357,Piano Sonata for Four Hands (Fragment),G Major,Vienna,1786,Works for two pianos and for piano four hands
+358,Piano Sonata for Four Hands,B Flat Major,Salzburg,1773,Works for two pianos and for piano four hands
+359,"12 Variations for Piano & Violin ""La Bergére Celimene""",N/A,Vienna,1781,Sonatas and Variations for Piano and Violin
+360,"6 Variations for Piano & Violin ""Hélas, j'ai perdu mon amant""",N/A,Vienna,1781,Sonatas and Variations for Piano and Violin
+361,"Serenade #10 for Winds ""Gran Partita""",B Flat Major,Vienna,1783,Divertimenti and serenades for wind instruments
+362,March (Idomeneo),C Major,Salzburg,1780,"Music for Plays, Pantomimes and Ballets"
+363,3 Minuets,N/A,Vienna,1782,Dances and Marches
+364,"Sinfonia concertante for Violin, Viola & Orchestra",E Flat Major,Salzburg,1779,"Concertos for one or more string, wind"
+365,Concerto for 2 Pianos #10,E Flat Major,Salzburg,1779,Concertos for piano
+366,"Idomeneo, re di Creta",N/A,Munich,1781,Operas and Singspiels
+367,Ballet Music to Idomeneo,N/A,Munich,1781,"Music for Plays, Pantomimes and Ballets"
+368,"Recitative & Aria for Soprano ""Ma, che vi fece, o stelle""",N/A,Munich,1779,"Arias, scenes, ensembles and choirs with orchestra"
+369,"Scena & Aria for Soprano ""Misera, dove son!""",N/A,Munich,1781,"Arias, scenes, ensembles and choirs with orchestra"
+370,Quartet for Oboe & Strings,F Major,Munich,1781,String Quartets and Quartets with a Wind Instrument
+371,Rondo for Horn & Orchestra (sketch),E Flat Major,Vienna,1781,"Concertos for one or more string, wind"
+372,Sonata for Piano & Violin #34 (Fragment),B Flat Major,Vienna,1781,Sonatas and Variations for Piano and Violin
+373,Rondo for a Violin Concerto,C Major,Vienna,1781,"Concertos for one or more string, wind"
+374,"Recitative & Aria for Soprano ""Or che il cielo""",N/A,Vienna,1781,"Arias, scenes, ensembles and choirs with orchestra"
+375,Serenade #11 for Winds,E Flat Major,Vienna,1781,Divertimenti and serenades for wind instruments
+375b,Grave & presto for 2 Pianos,B Flat Major,Vienna,1782,Works for two pianos and for piano four hands
+375c,Sonata for 2 Pianos,B Flat Major,Vienna,1782,Works for two pianos and for piano four hands
+375d,Fugue for 2 pianos,G Major,Vienna,1785,Works for two pianos and for piano four hands
+375g,Fugue for Piano,G Major,Vienna,1776,Piano Pieces
+375h,Fugue for Piano,F Major,Vienna,1783,Piano Pieces
+376,Sonata for Piano & Violin #24,F Major,Vienna,1781,Sonatas and Variations for Piano and Violin
+377,Sonata for Piano & Violin #25,F Major,Vienna,1781,Sonatas and Variations for Piano and Violin
+378,Sonata for Piano & Violin #26,B Flat Major,Salzburg,1779,Sonatas and Variations for Piano and Violin
+379,Sonata for Piano & Violin #27,G Major,Vienna,1781,Sonatas and Variations for Piano and Violin
+380,Sonata for Piano & Violin #28,E Flat Major,Vienna,1781,Sonatas and Variations for Piano and Violin
+381,Piano Sonata for 4 hands,D Major,Salzburg,1772,Works for two pianos and for piano four hands
+382,Rondo for Piano & Orchestra,D Major,Vienna,1782,Concertos for piano
+383,"Aria for Soprano ""Nehmt meinen Dank""",N/A,Vienna,1782,"Arias, scenes, ensembles and choirs with orchestra"
+383C,Fantasia for Piano,F minor,Vienna,1789,Piano Pieces
+383b,Fugue for Piano,F Major,Vienna,1782,Piano Pieces
+383c,Fugue for Piano,C minor,Vienna,1782,Piano Pieces
+383d,Thema & Variations for Piano or Organ,C Major,Vienna,1782,Variations for Piano
+384,Die Entführung aus dem Serail,N/A,Vienna,1782,Operas and Singspiels
+384B,Andante for Winds,E Flat Major,Vienna,1782,Divertimenti and serenades for wind instruments
+384b,March for Winds,B Flat Major,Vienna,1782,Divertimenti and serenades for wind instruments
+385,"Symphony #35 ""Haffner""",D Major,Vienna,1782,Symphonies
+385h,Adagio for Piano,D minor,Vienna,1782,Piano Pieces
+385m,Fugue for String Quartet,C Major,Vienna,1782,String Quartets and Quartets with a Wind Instrument
+386,Rondo for Piano & Orchestra,A Major,Vienna,1782,Concertos for piano
+386d,"Recitative ""O Calpe"" (Fragment)",D minor,Vienna,1782,Lieder
+387,"Quartet for Strings #14 ""Frühlings-Quartett""",G Major,Vienna,1782,String Quartets and Quartets with a Wind Instrument
+388,Serenade #12 for Winds,C minor,Vienna,1782,Divertimenti and serenades for wind instruments
+389,"Duet ""Welch aengstliches Beben"" (For Die Entführung aus dem Serail)",N/A,Vienna,1782,"Arias, scenes, ensembles and choirs with orchestra"
+390,"Lied ""Ich wuerd auf meinem Pfad""",N/A,Salzburg,1780,Lieder
+391,"Lied ""Sei du mein Trost""",N/A,Salzburg,1780,Lieder
+392,"Lied ""Verdankt sei es dem Glanz""",N/A,Salzburg,1780,Lieder
+393,"""Solfeggi"" for Soprano",N/A,Vienna,1782,Supplement
+394,Fantasia & Fugue for Piano,C Major,Vienna,1782,Piano Pieces
+396,Adagio for Piano & Violin (Fragment),C minor,Vienna,1782,Sonatas and Variations for Piano and Violin
+397,Fantasia for Piano,D minor,Vienna,1782,Piano Pieces
+398,"6 Variations for Piano ""Salve tu, Domine""",F Major,Vienna,1783,Variations for Piano
+399,Suite for Piano,C Major,Vienna,1782,Piano Pieces
+400,Allegro of a Sonata for Piano,B Flat Major,Vienna,1782,Piano sonatas
+401,Fugue for Organ,G minor,Salzburg,1772,Piano Pieces
+402,Sonata for Piano & Violin #29 (Fragment),A Major,Vienna,1782,Sonatas and Variations for Piano and Violin
+403,Sonata for Piano & Violin #30 (Fragment),C Major,Vienna,1784,Sonatas and Variations for Piano and Violin
+404,Sonata for Piano & Violin #31 (Fragment),C Major,Vienna,1782,Sonatas and Variations for Piano and Violin
+404a,6 Preludes to Fugues by J.S. & W.F. Bach for String Trio,N/A,Vienna,1782,Supplement
+405,5 Fugues by Bach arranged for String Quartet,N/A,Vienna,1782,Supplement
+406,Quintet for Strings arranged from K. 388,C minor,Vienna,1788,String quintets and quintets with winds
+407,Quintet for Horn & Strings,E Flat Major,Vienna,1782,String quintets and quintets with winds
+408,3 Marches for Orchestra,N/A,Vienna,1782,Dances and Marches
+409,Minuet to a Symphony,C Major,Vienna,1782,Symphonies
+410,Adagio for 2 Basset Horns & Bassoon,F Major,Vienna,1784,Duos and Trios for Strings and Winds
+411,Adagio for 2 Clarinets & 3 Basset Horns,F Major,Vienna,1782,Divertimenti and serenades for wind instruments
+412,Concerto for Horn (+ K.514),D Major,Vienna,1791,"Concertos for one or more string, wind"
+413,Concerto for Piano #11,F Major,Vienna,1782,Concertos for piano
+414,Concerto for Piano #12,A Major,Vienna,1782,Concertos for piano
+415,Concerto for Piano #13,C Major,Vienna,1782,Concertos for piano
+416,"Scena & Ronda for Soprano ""Mia speranza adorata""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+417,Concerto for Horn,E Flat Major,Vienna,1783,"Concertos for one or more string, wind"
+418,"Aria for Soprano ""Vorrei spiegarvi, oh Dio""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+419,"Aria for Soprano ""No, no, che non sei capace""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+420,"Aria for Tenor ""Per pieta, non ricercate""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+421,Quartet for Strings #15,D minor,Vienna,1783,String Quartets and Quartets with a Wind Instrument
+422,L'oca del Cairo (Fragment),N/A,Salzburg,1783,Operas and Singspiels
+422a,Kyrie (Fragment),D Major,Vienna,1787,Masses and Requiem
+423,Duo for Violin & Viola,G Major,Salzburg,1783,Duos and Trios for Strings and Winds
+424,Duo for Violin & Viola,B Flat Major,Salzburg,1783,Duos and Trios for Strings and Winds
+425,"Symphony #36 ""Linz""",C Major,Linz,1783,Symphonies
+426,Fugue for 2 pianos,C minor,Vienna,1783,Works for two pianos and for piano four hands
+427,"Mass ""Great Mass""",C minor,Vienna,1783,Masses and Requiem
+428,Quartet for Strings #16,E Flat Major,Vienna,1783,String Quartets and Quartets with a Wind Instrument
+429,"Cantata ""Dir, Seele des Weltalls""",N/A,Vienna,1783,"Oratorios, Sacred Singspiels and Cantatas"
+430,Lo sposo deluso (Fragment),N/A,Salzburg,1783,Operas and Singspiels
+431,"Recitative & Aria for Tenor ""Misoro! o sogno!""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+432,"Recitative & Aria for Bass ""Cosí dunque tradisci""",N/A,Vienna,1782,"Arias, scenes, ensembles and choirs with orchestra"
+433,"Arietta for Bass ""Maenner suchen stets""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+434,"Terzetto ""Del gran regno delle Amazoni""",N/A,Vienna,1785,"Arias, scenes, ensembles and choirs with orchestra"
+435,"Aria for Tenor ""Muesst ich auch""",N/A,Vienna,1783,"Arias, scenes, ensembles and choirs with orchestra"
+436,"Notturno for 2 Sopranos & Bass ""Ecco quel fiero istante""",N/A,Vienna,1783,Notturni & Polyphonic singing
+437,"Notturno for 2 Sopranos & Bass ""Mi lagnero tacendo""",N/A,Vienna,1787,Notturni & Polyphonic singing
+438,"Notturno for 3 Voices ""Se lontan ben mio, tu sei""",N/A,Vienna,1787,Notturni & Polyphonic singing
+439,"Notturno for 2 Sopranos & Bass ""Due pupille amabile""",N/A,Vienna,1783,Notturni & Polyphonic singing
+440,"Aria for Soprano ""In te spero o sposo""",N/A,Vienna,1782,"Arias, scenes, ensembles and choirs with orchestra"
+440b,Allegro assai for Winds,B Flat Major,Vienna,1785,Divertimenti and serenades for wind instruments
+440c,Adagio for Winds,F Major,Vienna,1787,Divertimenti and serenades for wind instruments
+441,"Terzetto ""Liebes Mandel, wo is's Bandel""",N/A,Vienna,1786,Notturni & Polyphonic singing
+441a,"Lied ""Ja! Grüss dich Gott""",N/A,Vienna,1788,Supplement
+442,"Trio for Piano, Violin & Cello (incomplete)",D minor,Vienna,1783,"Quintets, quartets and trios with piano"
+443,Fugue in 3 vocal parts (Fragment),N/A,Vienna,1782,Supplement
+444,Introduction to a Symphony (#37) of Michael Haydn,G Major,Vienna,1783,Supplement
+445,March for Orchestra,D Major,Salzburg,1780,Dances and Marches
+446,Music to a Pantomime (Fragment),N/A,Vienna,1783,"Music for Plays, Pantomimes and Ballets"
+447,Concerto for Horn,E Flat Major,Vienna,1787,"Concertos for one or more string, wind"
+448,Sonata for 2 Pianos,D Major,Vienna,1781,Works for two pianos and for piano four hands
+449,Concerto for Piano #14,E Flat Major,Vienna,1784,Concertos for piano
+450,Concerto for Piano #15,B Flat Major,Vienna,1784,Concertos for piano
+451,Concerto for Piano #16,D Major,Vienna,1784,Concertos for piano
+452,Quintet for Piano & Winds,E Flat Major,Vienna,1784,"Quintets, quartets and trios with piano"
+452a,Quintet Movement for Piano & Winds,B Flat Major,Vienna,1784,Supplement
+453,Concerto for Piano #17,G Major,Vienna,1784,Concertos for piano
+453a,Little Funeral March for Piano,C minor,Vienna,1784,Piano Pieces
+454,Sonata for Piano & Violin #32,B Flat Major,Vienna,1784,Sonatas and Variations for Piano and Violin
+455,"10 Variations for Piano ""Unser dummer Poebel meint""",G Major,Vienna,1784,Variations for Piano
+456,"Concerto for Piano #18 ""Paradis""",B Flat Major,Vienna,1784,Concertos for piano
+457,Sonata for Piano #14,C minor,Vienna,1784,Piano sonatas
+458,"Quartet for Strings #17 ""Hunt""",B Flat Major,Vienna,1784,String Quartets and Quartets with a Wind Instrument
+458b,Movement for String Quartet,B Flat Major,Vienna,1790,String Quartets and Quartets with a Wind Instrument
+459,Concerto for Piano #19,F Major,Vienna,1784,Concertos for piano
+460,"8 Variations for Piano ""Come un agnello""",A Major,Vienna,1783,Variations for Piano
+461,6 Minuets for Orchestra,N/A,Vienna,1784,Dances and Marches
+462,6 Contredanses for Orchestra,N/A,Vienna,1781,Dances and Marches
+463,2 Contredanses with minuets for Orchestra,N/A,Vienna,1781,Dances and Marches
+464,Quartet for Strings #18,A Major,Vienna,1785,String Quartets and Quartets with a Wind Instrument
+464a,Movement for String Quartet,A Major,Vienna,1785,String Quartets and Quartets with a Wind Instrument
+465,"Quartet for Strings #19 ""Dissonant""",C Major,Vienna,1785,String Quartets and Quartets with a Wind Instrument
+466,Concerto for Piano #20,D minor,Vienna,1785,Concertos for piano
+467,Concerto for Piano #21,C Major,Vienna,1785,Concertos for piano
+468,"Lied ""Die ihr einem neuen Grade""",N/A,Vienna,1785,Lieder
+469,Davidde penitente,N/A,Vienna,1785,"Oratorios, Sacred Singspiels and Cantatas"
+471,"Cantata ""Die Maurerfreude""",N/A,Vienna,1785,"Oratorios, Sacred Singspiels and Cantatas"
+472,"Lied ""Ihr Maedchen, flieht""",N/A,Vienna,1785,Lieder
+473,"Lied ""Wie Sanft, wie ruhig""",N/A,Vienna,1785,Lieder
+474,"Lied ""Der Reiche Tor""",N/A,Vienna,1785,Lieder
+475,Fantasia for Piano,C minor,Vienna,1785,Piano sonatas
+476,"Lied ""Das Veilchen""",N/A,Vienna,1785,Lieder
+477,Maurerische Trauermusik,C minor,Vienna,1785,Symphonies
+477a,"Ariette ""Quell' agneletto candido""",N/A,Vienna,1785,Supplement
+478,Quartet for Piano & Strings,G minor,Vienna,1785,"Quintets, quartets and trios with piano"
+479,"Quartet ""Dite almeno""",N/A,Vienna,1785,"Arias, scenes, ensembles and choirs with orchestra"
+480,"Terzet ""Mandina amabile""",N/A,Vienna,1785,"Arias, scenes, ensembles and choirs with orchestra"
+480a,Movement for Piano & Violin,A Major,Vienna,1782,Sonatas and Variations for Piano and Violin
+481,Sonata for Piano & Violin #33,E Flat Major,Vienna,1785,Sonatas and Variations for Piano and Violin
+482,Concerto for Piano #22,E Flat Major,Vienna,1785,Concertos for piano
+483,"Song with Chorus ""Zerfliesset heut', geliebte Brueder""",N/A,Vienna,1785,Notturni & Polyphonic singing
+484,"Chorus ""Ihr unsre neuen Leiter""",N/A,Vienna,1785,Notturni & Polyphonic singing
+485,Rondo for Piano,D Major,Vienna,1786,Piano Pieces
+486,Der Schauspieldirektor,N/A,Vienna,1786,Operas and Singspiels
+486a,"Recitative & Aria for Soprano ""Basta, vincesti""",N/A,Mannheim,1778,"Arias, scenes, ensembles and choirs with orchestra"
+487,12 Duets for 2 Horns,N/A,Vienna,1786,Duos and Trios for Strings and Winds
+488,Concerto for Piano #23,A Major,Vienna,1786,Concertos for piano
+489,"Duet for Soprano & Tenor ""Spiegarti, oh Dio, non posso"" (for Idomeneo)",N/A,Vienna,1786,"Arias, scenes, ensembles and choirs with orchestra"
+490,"Scena & Rondo for Soprano ""Non piu, tutto - Non temer amato bene"" (for Idomeneo)",N/A,Vienna,1786,"Arias, scenes, ensembles and choirs with orchestra"
+491,Concerto for Piano #24,C minor,Vienna,1786,Concertos for piano
+492,Le nozze di Figaro,N/A,Vienna,1786,Operas and Singspiels
+493,Quartet for Piano & Strings,E Flat Major,Vienna,1786,"Quintets, quartets and trios with piano"
+494,"Sonata for Piano #15 (Rondo), with K.533",F Major,Vienna,1786,Piano sonatas
+494a,Movement of Concerto for Horn,F Major,Vienna,1786,"Concertos for one or more string, wind"
+495,Concerto for Horn,E Flat Major,Vienna,1786,"Concertos for one or more string, wind"
+495a,"Movement for Piano, Violin & Cello",G Major,Vienna,1786,"Quintets, quartets and trios with piano"
+496,"Trio for Piano, Violin & Cello",G Major,Vienna,1786,"Quintets, quartets and trios with piano"
+497,Piano Sonata for 4 Hands,F Major,Vienna,1786,Works for two pianos and for piano four hands
+498,"Trio for Piano, Clarinet & Viola ""Kegelstatt""",E Flat Major,Vienna,1786,"Quintets, quartets and trios with piano"
+498a,Sonata for Piano (Fragment),B Flat Major,Vienna,1786,Supplement
+499,"Quartet for Strings #20 ""Hoffmeister""",D Major,Vienna,1786,String Quartets and Quartets with a Wind Instrument
+500,12 Variations for Piano,B Flat Major,Vienna,1786,Variations for Piano
+501,Andante with 5 Variations for Piano Duet,G Major,Vienna,1786,Works for two pianos and for piano four hands
+502,"Trio for Piano, Violin & Cello",B Flat Major,Vienna,1786,"Quintets, quartets and trios with piano"
+503,Concerto for Piano #25,C Major,Vienna,1786,Concertos for piano
+504,"Symphony #38 ""Prague""",D Major,Vienna,1786,Symphonies
+505,"Scena & Rondo for Soprano ""Ch'io mi scordi di te""",N/A,Vienna,1786,"Arias, scenes, ensembles and choirs with orchestra"
+506,"Lied der Freiheit, ""Wer unter eines Maedchens Hand""",N/A,Vienna,1786,Lieder
+507,"Canon ""Heiterkeit und Leichtes Blut""",N/A,Vienna,1786,Canons
+508,"Canon ""Auf das Wohl aller Freunde""",N/A,Vienna,1786,Canons
+508A,Canon,N/A,Vienna,1786,Canons
+508a,14 Intervallkanons,N/A,Vienna,1786,Canons
+509,6 German Dances,N/A,Prague,1787,Dances and Marches
+511,Rondo for Piano,A minor,Vienna,1787,Piano Pieces
+512,"Recitative & Aria for Bass ""Alcandro, lo confesso""",N/A,Vienna,1787,"Arias, scenes, ensembles and choirs with orchestra"
+513,"Aria for Bass ""Mentre ti lascio""",N/A,Vienna,1787,"Arias, scenes, ensembles and choirs with orchestra"
+514,Rondo for Horn & Orchestra (+ K.412),D Major,Vienna,1791,"Concertos for one or more string, wind"
+514a,Quintet for Strings (Fragment),B Flat Major,Vienna,1787,String quintets and quintets with winds
+515,Quintet for Strings,C Major,Vienna,1787,String quintets and quintets with winds
+515c,Quintet for Strings (Fragment),A minor,Vienna,1791,String quintets and quintets with winds
+516,Quintet for Strings,G minor,Vienna,1787,String quintets and quintets with winds
+516c,Andante for Clarinet & String Quartet,E Flat Major,Vienna,1787,String quintets and quintets with winds
+516c,Allegro for Clarinet & String Quartet,B Flat Major,Vienna,1789,String quintets and quintets with winds
+516f,Musikalisches Würfespiel,C Major,Vienna,1787,Supplement
+517,"Lied, Die Alte, ""Zu meiner Zeit""",N/A,Vienna,1787,Lieder
+518,"Lied ""Sobald Damoetas""",N/A,Vienna,1787,Lieder
+519,"Lied ""das Lied der Trennung, Die Engel Gottes weinen""",N/A,Vienna,1787,Lieder
+520,"Lied ""Erzeugt von heisser Phantasie""",N/A,Vienna,1787,Lieder
+521,Piano Sonata for 4 Hands,C Major,Vienna,1787,Works for two pianos and for piano four hands
+522,"Divertimento for String Quartet & 2 Horns ""Ein musikalischer Spass""",F Major,Vienna,1787,Divertimenti for string and wind instruments
+523,"Lied ""Abend ist's""",N/A,Vienna,1787,Lieder
+524,"Lied ""An Chloe""",N/A,Vienna,1787,Lieder
+525,"Serenade for String Quartet & Bass ""Eine kleine Nachtmusik""",G Major,Vienna,1787,"Cassations, Serenades and Divertimenti for orchestra"
+526,Sonata for Piano & Violin #35,A Major,Vienna,1787,Sonatas and Variations for Piano and Violin
+527,Don Giovanni,N/A,Prague,1787,Operas and Singspiels
+528,"Scena for Soprano ""Belle mia fiamma""",N/A,Prague,1787,"Arias, scenes, ensembles and choirs with orchestra"
+529,"Lied ""Es war einmal""",N/A,Prague,1787,Lieder
+530,"Lied ""Wo bist du, Bild?""",N/A,Prague,1787,Lieder
+531,"Lied ""Die kleine Spinnerin, Was spinnst du?""",N/A,Vienna,1787,Lieder
+532,"Terzetto ""Grazie agl'inganni tuoi"" (sketch)",N/A,Vienna,1787,Notturni & Polyphonic singing
+533,"Sonata for Piano #15 (Allegro & Andante), with K.494",F Major,Vienna,1788,Piano sonatas
+534,Contredanse for Orchestra,D Major,Vienna,1788,Dances and Marches
+535,"Contredanse ""La Bataille"" for Orchestra",C Major,Vienna,1788,Dances and Marches
+535a,3 Contredanses for Orchestra,N/A,Vienna,1788,Dances and Marches
+535b,Contredanse,B Flat Major,Vienna,1788,Dances and Marches
+536,6 German Dances for Orchestra,N/A,Vienna,1788,Dances and Marches
+537,"Concerto for Piano #26 ""Coronation""",D Major,Vienna,1788,Concertos for piano
+538,"Aria for Soprano ""Ah se in ciel""",N/A,Vienna,1788,"Arias, scenes, ensembles and choirs with orchestra"
+539,"Song ""Ich moechte wohl""",N/A,Vienna,1788,"Arias, scenes, ensembles and choirs with orchestra"
+540,Adagio for Piano,B minor,Vienna,1788,Piano Pieces
+540a,"Aria for Tenor ""Dalla sua pace"" (for Don Giovanni)",N/A,Vienna,1788,"Arias, scenes, ensembles and choirs with orchestra"
+540b,"Duo for Soprano & Bass ""Per queste tue manine"" (for Don Giovanni)",N/A,Vienna,1788,"Arias, scenes, ensembles and choirs with orchestra"
+540c,"Recitative & Aria for Soprano ""In quali eccessi - Mi tradi"" (for Don Giovanni)",N/A,Vienna,1788,"Arias, scenes, ensembles and choirs with orchestra"
+541,"Arietta for Bass ""Un bacio di mano""",N/A,Vienna,1788,"Arias, scenes, ensembles and choirs with orchestra"
+542,"Trio for Piano, Violin & Cello",E Major,Vienna,1788,"Quintets, quartets and trios with piano"
+543,Symphony #39,E Flat Major,Vienna,1788,Symphonies
+544,"March ""Ein kleiner Marsch""",D Major,Vienna,1788,Dances and Marches
+545,"Sonata for Piano ""Facile"" #16",C Major,Vienna,1788,Piano sonatas
+546,Adagio & Fugue for Strings (originally for 2 Pianos),C minor,Vienna,1788,Symphonies
+546a,Movement for Piano & Violin,G Major,Vienna,1788,Sonatas and Variations for Piano and Violin
+547,Sonata for Piano & Violin #36,F Major,Vienna,1788,Sonatas and Variations for Piano and Violin
+547a,Sonata for Piano #19,F Major,Vienna,1788,Piano sonatas
+548,"Trio for Piano, Violin & Cello",C Major,Vienna,1788,"Quintets, quartets and trios with piano"
+549,"Canzonetta for 2 Sopranos & Bass ""Piu non si trovano""",N/A,Vienna,1788,Notturni & Polyphonic singing
+550,Symphony #40,G minor,Vienna,1788,Symphonies
+551,"Symphony #41 ""Jupiter""",C Major,Vienna,1788,Symphonies
+552,"Lied ""Beim Auszug in das feld, Dem hohen Kaiser-Worter treu""",N/A,Vienna,1788,Lieder
+553,"Canon ""Alleluja""",N/A,Vienna,1788,Canons
+554,"Canon ""Ave Maria""",N/A,Vienna,1788,Canons
+555,"Canon ""Lacrimoso son io""",N/A,Vienna,1788,Canons
+556,"Canon ""G'rechtelt's enk""",N/A,Vienna,1788,Canons
+557,"Canon ""Nascoso e il mio sol""",N/A,Vienna,1788,Canons
+558,"Canon ""Gehn ma in'n Prada""",N/A,Vienna,1788,Canons
+559,"Canon ""Difficile lectu mihi""",N/A,Vienna,1788,Canons
+560,"Canons ""O du eselhafter Martin"" - ""O du eselhafter Peierl""",N/A,Vienna,1788,Canons
+561,"Canon ""Bona nox, bist a rechta Ox""",N/A,Vienna,1788,Canons
+562,"Canon ""Caro, bell'idol mio""",N/A,Vienna,1788,Canons
+562a,Canon,B Flat Major,Vienna,1788,Canons
+562c,Canon for String Quartet,C Major,Vienna,1780,Canons
+562e,"Trio for Violin, Viola & Cello (Fragment)",G Major,Vienna,1788,Duos and Trios for Strings and Winds
+563,Divertimento for String Trio,E Flat Major,Vienna,1788,Duos and Trios for Strings and Winds
+564,"Trio for Piano, Violin & Cello",G Major,Vienna,1788,"Quintets, quartets and trios with piano"
+565a,Contredanse,D Major,Vienna,1788,Dances and Marches
+566,"Instrumentation of Handel's ""Acis & Galatea""",N/A,Vienna,1788,Supplement
+567,6 German Dances for Orchestra,N/A,Vienna,1788,Dances and Marches
+568,12 Minuets for Orchestra,N/A,Vienna,1788,Dances and Marches
+569a,Sonata for Piano (Fragment),B Flat Major,Vienna,1787,Piano sonatas
+570,Sonata for Piano #17,B Flat Major,Vienna,1789,Piano sonatas
+571,6 German Dances for Orchestra,N/A,Vienna,1789,Dances and Marches
+571a,"Comic Quartet ""Caro mio, Druck und Schluck""",N/A,Vienna,1789,Notturni & Polyphonic singing
+572,"Instrumentation of Handel's ""The Messiah""",N/A,Vienna,1789,Supplement
+573,9 Variations for Piano (Duport),D Major,Potsdam,1789,Variations for Piano
+574,Gigue for Piano,G minor,Leipzig,1789,Piano Pieces
+575,Quartet for Strings #21,D Major,Vienna,1789,String Quartets and Quartets with a Wind Instrument
+576,Sonata for Piano #18,D Major,Vienna,1789,Piano sonatas
+576a,Menuet for Piano,D Major,Vienna,1789,Piano Pieces
+577,"Rondo for Soprano ""Al desio"" (for Le Nozze di Figaro)",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+578,"Aria for Soprano ""Alma grande""",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+579,"Aria for Soprano ""Un moto di gioia"" (for Le Nozze di Figaro)",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+580,"Aria for Soprano ""Schon lacht der holde Fruehling""",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+580a,Adagio for Winds,F Major,Vienna,1789,Divertimenti and serenades for wind instruments
+580b,"Allegro for Clarinet, Basset-horn & Strings",F Major,Vienna,1789,String quintets and quintets with winds
+581,Quintet for Clarinet & Strings,A Major,Vienna,1789,String quintets and quintets with winds
+581a,Rondo for Clarinet & Strings,A Major,Vienna,1789,String quintets and quintets with winds
+582,"Aria for Soprano ""Chi sa, chi sa, qual sia""",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+583,"Aria for Soprano ""Vado, ma dove?""",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+584,"Aria for Bass ""Rivolgete a lui lo sguardo"" (for Cosi fan tutte)",N/A,Vienna,1789,"Arias, scenes, ensembles and choirs with orchestra"
+584b,Movement for Basset-Horn & Orchestra,G Major,Vienna,1787,"Concertos for one or more string, wind"
+585,12 Minuets for Orchestra,N/A,Vienna,1789,Dances and Marches
+586,12 German Dances for Orchestra,N/A,Vienna,1789,Dances and Marches
+587,Contredanse for Orchestra,C Major,Vienna,1789,Dances and Marches
+587a,Movement for String Quartet,G minor,Vienna,1789,String Quartets and Quartets with a Wind Instrument
+588,Cosi fan tutte,N/A,Vienna,1790,Operas and Singspiels
+589,Quartet for Strings #22,B Flat Major,Vienna,1790,String Quartets and Quartets with a Wind Instrument
+589a,Rondo for String Quartet,B Flat Major,Vienna,1782,String Quartets and Quartets with a Wind Instrument
+590,Quartet for Strings #23,F Major,Vienna,1790,String Quartets and Quartets with a Wind Instrument
+590a,Sonata Movement for Piano,F Major,Vienna,1787,Piano sonatas
+590b,Sonata Movement for Piano,F Major,Vienna,1787,Piano sonatas
+590c,Sonata Movement for Piano,F Major,Vienna,1787,Piano sonatas
+591,"Instrumentation of Handel's ""Alexander's Feast""",N/A,Vienna,1790,Supplement
+592,"Instrumentation of Handel's ""Ode to Saint Cecilia""",N/A,Vienna,1790,Supplement
+592b,Movement for String Quintet,D Major,Vienna,1787,String quintets and quintets with winds
+593,Quintet for Strings,D Major,Vienna,1790,String quintets and quintets with winds
+593a,Allegro for Mechanical Organ,D minor,Vienna,1790,Piano Pieces
+594,Adagio & Allegro for Mechanical Organ,F minor,Vienna,1790,Piano Pieces
+595,Concerto for Piano #27,B Flat Major,Vienna,1791,Concertos for piano
+596,"Lied ""Komm, lieber Mai""",N/A,Vienna,1791,Lieder
+597,"Lied ""Erwacht zum neuen Leben""",N/A,Vienna,1791,Lieder
+598,"Lied ""Wir Kinder""",N/A,Vienna,1791,Lieder
+599,6 Minuets for Orchestra,N/A,Vienna,1791,Dances and Marches
+600,6 German Dances for Orchestra,N/A,Vienna,1791,Dances and Marches
+601,4 Minuets for Orchestra,N/A,Vienna,1791,Dances and Marches
+602,4 German Dances for Orchestra,N/A,Vienna,1791,Dances and Marches
+603,2 Contredanses for Orchestra,N/A,Vienna,1791,Dances and Marches
+604,2 Minuets for Orchestra,N/A,Vienna,1791,Dances and Marches
+605,3 German Dances for Orchestra,N/A,Vienna,1791,Dances and Marches
+606,6 German Dances for Orchestra,B Flat Major,Vienna,1791,Dances and Marches
+607,"Contredanse for Orchestra ""Il Trionfo delle Donne""",E Flat Major,Vienna,1791,Dances and Marches
+608,Fantasia for a Mechanical Organ,F minor,Vienna,1791,Piano Pieces
+609,5 Contredanses for Orchestra,N/A,Vienna,1791,Dances and Marches
+610,"Contredanse for Orchestra ""Les filles malicieuses""",G Major,Vienna,1787,Dances and Marches
+612,"Aria for Bass ""Per questa bella mano""",N/A,Vienna,1791,"Arias, scenes, ensembles and choirs with orchestra"
+613,"6 Variations for Piano ""Ein Weib ist das herrlichste Ding""",N/A,Vienna,1791,Variations for Piano
+613a,Movement for String Quintet,E Flat Major,Vienna,1784,String quintets and quintets with winds
+613b,Movement for String Quintet,E Flat Major,Vienna,1786,String quintets and quintets with winds
+614,Quintet for Strings,E Flat Major,Vienna,1791,String quintets and quintets with winds
+616,Andante for a Small Mechanical Organ,F Major,Vienna,1791,Piano Pieces
+617,"Adagio & Rondo for Glass Harmonica, Flute, Oboe, Viola & Cello",C minor,Vienna,1791,"Quintets, quartets and trios with piano"
+618,"Motet ""Ave, verum corpus""",D Major,Baden,1791,Smaller Church Works
+619,"Cantata ""Die ihr des unermesslichen Weltalls""",N/A,Vienna,1791,"Oratorios, Sacred Singspiels and Cantatas"
+620,Die Zauberflöte,N/A,Vienna,1791,Operas and Singspiels
+621,La clemenza di Tito,N/A,Prague,1791,Operas and Singspiels
+621a,"Aria for Bass ""Io ti lascio, of cara, addio""",N/A,Prague,1791,"Arias, scenes, ensembles and choirs with orchestra"
+622,Concerto for Clarinet,A Major,Vienna,1791,"Concertos for one or more string, wind"
+623,"Cantata ""Eine kleine Freimaurer Kantata""",N/A,Vienna,1791,"Oratorios, Sacred Singspiels and Cantatas"
+623a,"Lied ""Lasst uns mit geschlungen Händen""",N/A,Vienna,1791,Supplement
+625,"Comic duet ""Nun liebes Weibchen""",N/A,Vienna,1790,Supplement
+626,Requiem,N/A,Vienna,1791,Masses and Requiem
+626a,Modulating Prelude,G Major,Salzburg,1776,Piano Pieces
+626b,Fugue,C minor,Vienna,1780,Supplement
+626c,Finger Exercises,N/A,Vienna,1780,Piano Pieces
