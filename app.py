@@ -48,8 +48,11 @@ if __name__ == '__main__':
     catalogue = create_catalogue(url, 'td')
     sorted_catalogue = sorted(catalogue, key=lambda x: (x[0], x[4])) # Sort rows by number and year
 
-    # Write the .csv file using the sorted catalogue and a specified header
-    file_name = 'catalogue.csv'
+    # Build the DataFrame using the sorted catalogue and a specified header
     header = ['number', 'title', 'key', 'location', 'year', 'genre']
     df = pd.DataFrame(sorted_catalogue, columns=header)
+    df['count_per_genre'] = df.groupby('genre')['number'].transform('count') # Include in each row the count of works per its genre
+    
+    # Write the DataFrame to the .csv file
+    file_name = 'catalogue.csv'
     df.to_csv(file_name, index=False)
