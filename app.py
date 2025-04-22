@@ -31,14 +31,14 @@ def create_catalogue(url: str, html_object: str) -> list:
             key = cell.getText().strip()
             keys.append(key) if key else keys.append('N/A') # Replace blank values with 'N/A'
     
-    locations = [cell.getText().strip() for cell in data_cells if cell.get('data-cell-id').startswith('F')]
+    regions = [cell.getText().strip() for cell in data_cells if cell.get('data-cell-id').startswith('F')]
     years = [cell.getText().strip() for cell in data_cells if cell.get('data-cell-id').startswith('E')]
 
     genres = [re.findall(r'(?<=\s).*$', cell.getText().strip())[0] # Filter from each work's genre the text without initials, signs or numbers
               for cell in data_cells if cell.get('data-cell-id').startswith('G')]
 
     # Use enumerate() with one of the lists ('numbers' in this case) to create an index parameter for the other ones
-    catalogue = [[item, titles[idx], keys[idx], locations[idx], years[idx], genres[idx]] for idx, item in enumerate(numbers)]
+    catalogue = [[item, titles[idx], keys[idx], regions[idx], years[idx], genres[idx]] for idx, item in enumerate(numbers)]
   
     return catalogue
 
@@ -49,7 +49,7 @@ if __name__ == '__main__':
     sorted_catalogue = sorted(catalogue, key=lambda x: (x[0], x[4])) # Sort rows by number and year
 
     # Build the DataFrame using the sorted catalogue and a specified header
-    header = ['number', 'title', 'key', 'location', 'year', 'genre']
+    header = ['number', 'title', 'key', 'region', 'year', 'genre']
     df = pd.DataFrame(sorted_catalogue, columns=header)
     df['count_per_genre'] = df.groupby('genre')['number'].transform('count') # Include in each row the count of works per its genre
     
